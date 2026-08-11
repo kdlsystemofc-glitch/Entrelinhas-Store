@@ -1,0 +1,9 @@
+# Local & Scratch Files
+scratch/
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Local Vercel configuration
+.vercel/
